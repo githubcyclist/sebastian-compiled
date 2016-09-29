@@ -1,3 +1,6 @@
+9/29/2016:
+> Further Improved Design, Border Now Exists Around Window
+> Added "Welcome, <your name>" Label Which Can Be Used To Change Name
 9/28/2016:
 > Development Switched to Different Computer
 > Improved Design
