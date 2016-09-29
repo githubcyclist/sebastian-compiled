@@ -5,9 +5,10 @@ h1 {
 p {
   font-family: Tahoma, Geneva, sans-serif;
 }
-html *
-{
-    background-image: url("Candolim_Beach_Goa.jpg") !important;
-    background-size: 100% 100% !important;
-    background-repeat: no-repeat !important;
+body#background {
+  background: url('Candolim_Beach_Goa.jpg') no-repeat 50% 50% fixed; 
+  background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  -webkit-background-size: cover;
 }
