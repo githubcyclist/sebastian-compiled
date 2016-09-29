@@ -1,0 +1,28 @@
+9/28/2016:
+> Development Switched to Different Computer
+> Improved Design
+> Improved Instruction for Ghost-Hide Feature
+> Removed Need to Pre-Create Text Files for Data
+> Updated Right-Click Key Assignments
+
+9/27/2016:
+> Added Ghost-Hide Feature
+
+9/26/2016:
+> Redesigned Sebastian
+
+Rest of New Update:
+> Added Sebastian Toolkit to Program Sebastian
+> Added Ability to Switch Character
+> Added Tell Time Feature
+> Removed Buggy Varying Greetings
+
+Later Features:
+> Chat
+> Telling Jokes and Facts
+> Right-Click Menu for Easy Access
+
+Basic Features:
+> Added loading and showing
+> Hiding
+> And Action menu for actions
