@@ -1,12 +1,13 @@
-body {
-    background-image: url("Candolim_Beach_Goa.jpg");
-    background-size: 100% 100%;
-    background-repeat: no-repeat;
-}
 h1 {
   font-family: "Trebuchet MS", Helvetica, sans-serif;
   font-size: 48px;
 }
 p {
   font-family: Tahoma, Geneva, sans-serif;
+}
+html *
+{
+    background-image: url("Candolim_Beach_Goa.jpg") !important;
+    background-size: 100% 100% !important;
+    background-repeat: no-repeat !important;
 }
