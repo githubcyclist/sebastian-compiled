@@ -1,11 +1,11 @@
 h1 {
   font-family: "Trebuchet MS", Helvetica, sans-serif;
   font-size: 48px;
-  font-color: "#e5da3b";
+  color: "#e5da3b";
 }
 p {
   font-family: Tahoma, Geneva, sans-serif;
-   font-color: "#e5da3b";
+   color: "#e5da3b";
 }
 body {
   background-color: "#2c3d9e";
